@@ -4,6 +4,10 @@
 
 Dự án frontend xây dựng bằng React + Vite dùng để tương tác với Smart Contract trên Ethereum.
 
+
+## Poster
+
+![Poster](Poster_Blockchain_NHP/Slide1.PNG)
 ## Công nghệ sử dụng
 
 - ReactJS

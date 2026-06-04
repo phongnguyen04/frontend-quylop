@@ -25,7 +25,8 @@ Dự án frontend xây dựng bằng React + Vite dùng để tương tác với
 ```bash
 npm install
 npm run dev
+```
 
-# Poster
+## Poster
 
 ![Poster](Poster_Blockchain_NHP/Slide1.PNG)

@@ -16,8 +16,7 @@ Dự án frontend xây dựng bằng React + Vite dùng để tương tác với
 ## Chức năng
 
 - Kết nối ví MetaMask
-- Hiển thị thông tin lớp học
-- Quản lý sinh viên
+- Quản lý quỹ lớp
 - Tương tác Smart Contract
 
 ## Cài đặt
